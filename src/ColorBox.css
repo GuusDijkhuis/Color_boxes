@@ -1,0 +1,38 @@
+.ColorBox {
+	height: calc(100vw/6);
+	width: calc(100vw/6);
+}
+
+.IndianRed {
+	background-color: IndianRed;
+}
+.Black {
+	background-color: Black;
+}
+.Tomato {
+	background-color: Tomato;
+}
+.MediumVioletRed {
+	background-color: MediumVioletRed;
+}
+.Yellow {
+	background-color: Yellow;
+}
+.Turquoise {
+	background-color: Turquoise;
+}
+.LightBlue {
+	background-color: LightBlue;
+}
+.Tan {
+	background-color: Tan;
+}
+.DarkGray {
+	background-color: DarkGray;
+}
+.Greenyellow {
+	background-color: Greenyellow;
+}
+.Teal {
+	background-color: Teal;
+}
